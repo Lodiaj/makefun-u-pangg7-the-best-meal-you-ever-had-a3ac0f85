@@ -1,0 +1,1 @@
+{"description":"make.fun bounty entry: one sentence about the best meal you ever had","license":"MIT","name":"best-meal-you-ever-had","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
